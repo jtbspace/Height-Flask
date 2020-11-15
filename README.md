@@ -1,7 +1,7 @@
 # Height-Flask
 A sql flask website hosted on Heroku
 
-Link:https://height-weight.herokuapp.com/
+Link: https://height-weight.herokuapp.com/
 
 
 This is a flask app to run this, us a virtual env and install the required pakages from the requirements.txt
